@@ -35,5 +35,6 @@ Group differences confirmed via ANOVA indicate differential benefits among stude
 Keywords:
 AI-based interventions; reading performance; learning disabilities; motivation; self-esteem; inclusive education.
 
-How to Cite
+How to Cite:
+
 Fatmi, K., Saad, Q., Shoukat, B.S., & Yousaf, M. (2025). The Effectiveness of AI-Based Reading Interventions for Students with Learning Disabilities: A Psychological Evaluation. Critical Review of Social Sciences Studies, 3(3), 750–767.
